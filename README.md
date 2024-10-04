@@ -1,8 +1,10 @@
 # MATEM3
 MATLAB TEMP FILE
+
+```plaintext
 1A.
 
-##########(>> A=[4 6 9;3 0 9;5 3 15];
+>> A=[4 6 9;3 0 9;5 3 15];
 >> det(A)
 ans =
  -27.0000
